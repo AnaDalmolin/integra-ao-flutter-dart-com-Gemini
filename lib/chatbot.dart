@@ -8,7 +8,7 @@ class ChatbotScreen extends StatefulWidget {
 }
 
 class _ChatbotScreenState extends State<ChatbotScreen> {
-  static const String apiKey = 'AIzaSyB8XeODLgLKMXUJdceR4CR5b_TK8CHLLC4';
+  static const String apiKey = 'SUA API KEY';
 
   GenerativeModel? _generativeModel;
   TextEditingController _messageController = TextEditingController();
